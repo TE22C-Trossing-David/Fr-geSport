@@ -1,0 +1,12 @@
+c:\Programering\FrågeSport\Frågor\bin\Debug\net6.0\Frågor.deps.json
+c:\Programering\FrågeSport\Frågor\bin\Debug\net6.0\Frågor.dll
+c:\Programering\FrågeSport\Frågor\bin\Debug\net6.0\Frågor.pdb
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\Frågor.csproj.AssemblyReference.cache
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\Frågor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\Frågor.AssemblyInfoInputs.cache
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\Frågor.AssemblyInfo.cs
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\Frågor.csproj.CoreCompileInputs.cache
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\Frågor.dll
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\refint\Frågor.dll
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\Frågor.pdb
+c:\Programering\FrågeSport\Frågor\obj\Debug\net6.0\ref\Frågor.dll
